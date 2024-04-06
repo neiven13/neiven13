@@ -1,5 +1,8 @@
 # <code>System.out.println("Oii, bem-vindo ao meu perfil!🙋🏼‍♂️")</code>
-## 👨🏼‍💻Estudante de Análise e Desenvolvimento de Sistemas
+👨🏼‍💻Estudante de Análise e Desenvolvimento de Sistemas
+
+🔭Em busca da minha primeira oportunidade de emprego na área de tecnologia
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurussoares/)
 
 
