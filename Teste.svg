@@ -2,7 +2,7 @@
   <style>
     @font-face {
       font-family: 'Retro Computer';
-      src:url('neiven13/retro_computer_personal_use.ttf') format('truetype');
+      src:url('/retro_computer_personal_use.ttf') format('truetype');
     }
     text {
       font-family: 'Retro Computer', sans-serif;
