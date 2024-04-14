@@ -1,4 +1,5 @@
-# <code>System.out.println("Oii, bem-vindo ao meu perfil!🙋🏼‍♂️")</code>
+<img src="helloAnimation.svg">
+
 👨🏼‍💻Estudante de Análise e Desenvolvimento de Sistemas
 
 🔭Em busca da minha primeira oportunidade de emprego na área de tecnologia
@@ -15,3 +16,4 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
