@@ -1,5 +1,15 @@
 <svg width="780" height="200" viewBox="0 0 780 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
+    path{
+        animation: surgir 3s infinite alternate;
+    }
+    @keyframes surgir{
+        0%{
+            opacity:0;
+        }5%{
+            opacity:1;
+        }
+    }
     .sobre{
         animation: translate 3s steps(1) infinite alternate;  
     }
