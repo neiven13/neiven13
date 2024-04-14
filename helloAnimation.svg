@@ -1,0 +1,100 @@
+<svg width="800" height="350" viewBox="0 0 800 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>
+    .sobre{
+        animation: translate 3s steps(1) infinite alternate;
+        
+    }
+    .barra{
+        animation: piscar .5s linear infinite ,translate 3s steps(1) infinite alternate;
+    }
+    @keyframes translate {
+        0% {
+            transform: translateX(0);
+        }
+        2% {
+            transform: translateX(30px);
+        }
+        4% {
+            transform: translateX(64px);
+        }
+        6% {
+            transform: translateX(94px);
+        }
+        8% {
+            transform: translateX(120px);
+        }
+        10% {
+            transform: translateX(150px);
+        }
+        12% {
+            transform: translateX(175px);
+        }
+        14% {
+            transform: translateX(212px);
+        }
+        16% {
+            transform: translateX(242px);
+        }
+        18% {
+            transform: translateX(270px);
+        }
+        20% {
+            transform: translateX(298px);
+        }
+        22% {
+            transform: translateX(330px);
+        }
+        24% {
+            transform: translateX(360px);
+        }
+        26% {
+            transform: translateX(390px);
+        }
+        28% {
+            transform: translateX(420px);
+        }
+        30% {
+            transform: translateX(450px);
+        }
+        32% {
+            transform: translateX(480px);
+        }
+        34% {
+            transform: translateX(510px);
+        }
+        36% {
+            transform: translateX(540px);
+        }
+        38% {
+            transform: translateX(570px);
+        }
+        40% {
+            transform: translateX(600px);
+        }
+        42% {
+            transform: translateX(630px);
+        }
+        44% {
+            transform: translateX(660px);
+        }
+        46% {
+            transform: translateX(690px);
+        }
+        48% {
+            transform: translateX(713px);
+        }
+        50% {
+            transform: translateX(713px);
+        }
+    }
+    @keyframes piscar{
+        from{opacity:0;}to{opacity:.8;}
+    }
+    
+</style>
+<rect width="800" height="350" fill="white"/>
+<rect y="106" width="800" height="69" fill="#282828"/>
+<path class="texto" d="M17 151.25V125H24.5V136.25H35.75V125H43.25V151.25H35.75V140H24.5V151.25H17ZM47 151.25V125H73.25V128.75H54.5V136.25H69.5V140H54.5V147.5H73.25V151.25H47ZM80.75 151.25V125H88.25V147.5H103.25V151.25H80.75ZM110.75 151.25V125H118.25V147.5H133.25V151.25H110.75ZM140.75 151.25V147.5H137V128.75H140.75V125H159.5V128.75H163.25V147.5H159.5V151.25H140.75ZM144.5 147.5H155.75V128.75H144.5V147.5ZM174.5 143.75V125H185.75V136.25H182V143.75H174.5ZM174.5 151.25V147.5H182V151.25H174.5ZM230.75 151.25V147.5H238.25V128.75H230.75V125H253.25V128.75H245.75V147.5H253.25V151.25H230.75ZM264.5 136.25V132.5H268.25V125H275.75V132.5H272V136.25H264.5ZM287 151.25V125H294.5V128.75H298.25V132.5H302V128.75H305.75V125H313.25V151.25H305.75V136.25H302V143.75H298.25V136.25H294.5V151.25H287ZM347 151.25V132.5H350.75V128.75H354.5V125H365.75V128.75H369.5V132.5H373.25V151.25H365.75V143.75H354.5V151.25H347ZM354.5 140H365.75V132.5H362V128.75H358.25V132.5H354.5V140ZM380.75 151.25V147.5H377V125H384.5V147.5H395.75V125H403.25V147.5H399.5V151.25H380.75ZM407 151.25V125H429.5V128.75H433.25V140H425.75V143.75H429.5V147.5H433.25V151.25H422V147.5H418.25V143.75H414.5V151.25H407ZM414.5 140H422V136.25H425.75V128.75H414.5V140ZM440.75 151.25V147.5H437V125H444.5V147.5H455.75V125H463.25V147.5H459.5V151.25H440.75ZM470.75 151.25V147.5H467V143.75H474.5V147.5H485.75V140H470.75V136.25H467V128.75H470.75V125H489.5V128.75H493.25V132.5H485.75V128.75H474.5V136.25H489.5V140H493.25V147.5H489.5V151.25H470.75ZM530.75 151.25V147.5H527V143.75H534.5V147.5H545.75V140H530.75V136.25H527V128.75H530.75V125H549.5V128.75H553.25V132.5H545.75V128.75H534.5V136.25H549.5V140H553.25V147.5H549.5V151.25H530.75ZM560.75 151.25V147.5H557V128.75H560.75V125H579.5V128.75H583.25V147.5H579.5V151.25H560.75ZM564.5 147.5H575.75V128.75H564.5V147.5ZM587 151.25V132.5H590.75V128.75H594.5V125H605.75V128.75H609.5V132.5H613.25V151.25H605.75V143.75H594.5V151.25H587ZM594.5 140H605.75V132.5H602V128.75H598.25V132.5H594.5V140ZM617 151.25V125H639.5V128.75H643.25V140H635.75V143.75H639.5V147.5H643.25V151.25H632V147.5H628.25V143.75H624.5V151.25H617ZM624.5 140H632V136.25H635.75V128.75H624.5V140ZM647 151.25V125H673.25V128.75H654.5V136.25H669.5V140H654.5V147.5H673.25V151.25H647ZM680.75 151.25V147.5H677V143.75H684.5V147.5H695.75V140H680.75V136.25H677V128.75H680.75V125H699.5V128.75H703.25V132.5H695.75V128.75H684.5V136.25H699.5V140H703.25V147.5H699.5V151.25H680.75ZM714.5 143.75V125H725.75V136.25H722V143.75H714.5ZM714.5 151.25V147.5H722V151.25H714.5Z" fill="#EFEFEF"/>
+<rect x="43" y="106" width="757" height="69" fill="#282828" class="sobre"/>
+<rect x="17" y="152" width="26" height="7" fill="#EFEFEF" class="barra"/>
+</svg>
