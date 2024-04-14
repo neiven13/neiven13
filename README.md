@@ -1,4 +1,4 @@
-<img src="helloAnimation.svg">
+<img src="titulo.svg">
 
 👨🏼‍💻Estudante de Análise e Desenvolvimento de Sistemas
 
